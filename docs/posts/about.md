@@ -6,7 +6,7 @@ prev: false
 date: 2024/9/14
 ---
 
-#About me
+# About me
 
 ![vitepress](/my-site.png)(https://sachertorte.main.jp/portfolio-site/src/)
 
